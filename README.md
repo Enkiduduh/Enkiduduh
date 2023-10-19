@@ -1,9 +1,8 @@
 ![](header.png)
 
 
-- 🔭 I’m currently working on a web game called Battle Monster
-- 🌱 I’m currently learning React, Redux, and Typescript
-- 💬 Ask me about my next project
+- 🌱 I’m currently learning JS / React with OpenClassrooms in the Dev Front-end Js React course.
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enkiduduh&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
