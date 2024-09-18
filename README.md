@@ -1,7 +1,7 @@
 ![](header.png)
 
 
-- 🌱 I’m a junior Front-en developper React.js
+- 🌱 I’m a junior Front-end developper - React.js
 
 
 
