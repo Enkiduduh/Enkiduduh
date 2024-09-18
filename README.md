@@ -1,7 +1,7 @@
 ![](header.png)
 
 
-- 🌱 I’m currently learning JS / React with OpenClassrooms in the Dev Front-end Js React course.
+- 🌱 I’m a junior Front-en developper React.js
 
 
 
