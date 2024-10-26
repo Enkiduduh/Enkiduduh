@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m a junior Front-end developper - React.js
-
+- 🌱 I’m currently learning JAVA with OpenClassrooms
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enkiduduh&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
